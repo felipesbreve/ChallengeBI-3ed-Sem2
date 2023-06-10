@@ -1,4 +1,4 @@
-# Empresa HermexLog
+# HermexLog
 
 A empresa HermexLog precisa necessita analisar dados sobre a logística das entregas do seu negócio.
 
